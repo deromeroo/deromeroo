@@ -1,5 +1,5 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/80493776?v=4" />
+<p align="center" width="200">
+   <img align="center" width="100" src="https://avatars.githubusercontent.com/u/80493776?v=4" />
    <h3 align="center">Deromeroo 👨🏻‍💻</h3>
 </p>
 
