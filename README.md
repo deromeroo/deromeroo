@@ -5,12 +5,11 @@ I'm a Web Developer & Gamer, I am passionate about learning new things.
 I really like React.js and Astro.
 
 ## 🛠 Skills
-Javascript - React - Astro
-TailwindCSS - CSS - HTML
+Javascript - React - Astro - TailwindCSS - CSS - HTML
 
 🌱 I’m currently learning MERN Stack & React Native
 
-📫 How to reach me: (mailto:deromero707@gmail.com)
+📫 How to reach me: [deromero707@gmail.com](mailto:deromero707@gmail.com)
 <!--
 **deromeroo/deromeroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
