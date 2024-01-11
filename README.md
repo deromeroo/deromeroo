@@ -1,6 +1,5 @@
 # Hi, I'm Diego! 👋
 
-## 🚀 About Me
 I'm a Web Developer & Gamer, I am passionate about learning new things.
 I really like React.js and Astro.
 
@@ -11,7 +10,6 @@ Javascript - React - Astro - TailwindCSS - CSS - HTML
 
 📫 How to reach me: [deromero707@gmail.com](mailto:deromero707@gmail.com)
 
-## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://deromeroo.vercel.app/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://linkedin.com/in/deromeroo))
