@@ -1,9 +1,16 @@
-<p align="center" width="200">
-   <img align="center" width="100" src="https://avatars.githubusercontent.com/u/80493776?v=4" />
-   <h3 align="center">Deromeroo 👨🏻‍💻</h3>
-</p>
-
 # Hi, I'm Diego! 👋
+
+## 🚀 About Me
+I'm a Web Developer & Gamer, I am passionate about learning new things.
+I really like React.js and Astro.
+
+## 🛠 Skills
+Javascript - React - Astro
+TailwindCSS - CSS - HTML
+
+🌱 I’m currently learning MERN Stack & React Native
+
+📫 How to reach me: (mailto:deromero707@gmail.com)
 <!--
 **deromeroo/deromeroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
