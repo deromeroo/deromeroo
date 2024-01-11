@@ -1,8 +1,9 @@
 <p align="center" width="300">
-   <img align="center" width="300" src="https://avatars.githubusercontent.com/u/80493776?v=4" />
-   <h3 align="center" color='#cecece'>¡Hello!, I'm Deromeroo 👨🏻‍💻 </h3>
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/80493776?v=4" />
+   <h3 align="center">Deromeroo 👨🏻‍💻</h3>
 </p>
 
+# Hi, I'm Diego! 👋
 <!--
 **deromeroo/deromeroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
