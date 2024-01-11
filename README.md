@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center" width="300">
    <img align="center" width="300" src="https://avatars.githubusercontent.com/u/80493776?v=4" />
    <h3 align="center">¡Hello!, I'm Deromeroo 👨🏻‍💻 </h3>
