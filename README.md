@@ -4,7 +4,7 @@ I'm a Web Developer & Gamer, I am passionate about learning new things.
 I really like React.js and Astro.
 
 ## 🛠 Skills
-Javascript - React - Astro - TailwindCSS - CSS - HTML
+Javascript - React - Astro - TailwindCSS - CSS - HTML - TS
 
 🌱 I’m currently learning MERN Stack & React Native
 
