@@ -1,10 +1,10 @@
 <img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZvZnN1bGplZ3FrbHRwejU5bTJtaHl2NDZvYjd4d2MyYTIzbHczNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.webp"  />
 
-##
+###
 
 <h1 align="left"># Hi, I'm Diego! 👋</h1>
 
-##
+###
 
 <h4 align="left">I'm a Web Developer & Gamer.<br>Passionate about learning new things.<br>React.js and Astro.</h4>
 
