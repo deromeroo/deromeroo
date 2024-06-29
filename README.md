@@ -8,6 +8,12 @@
 
 <h4 align="left">I'm a Web Developer & Gamer.<br>Passionate about learning new things.<br>React.js and Astro.</h4>
 
+<h5 align="left">
+  <a href="https://deromeroo.vercel.app/" target="_blank">
+    Portfolio
+  </a>
+</h5>
+
 ###
 
 <h6 align="left">🌱 I’m currently learning MERN Stack & React Native</h6>
@@ -65,9 +71,5 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deromeroo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/deromeroo/deromeroo/output/snake.svg" alt="Snake animation" />
 
 ###
