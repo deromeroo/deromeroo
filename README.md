@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left"># Hi, I'm Diego! 👋</h1>
+<h1 align="left"># Hi, I'm Diego Romero! 👋</h1>
 
 ###
 
